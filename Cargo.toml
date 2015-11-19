@@ -33,3 +33,7 @@ keywords = [
 	"NetGames USA", "ngLog", "ngStats", "ngWorldStats", "Unreal Tournament"
 ]
 license = "MIT License"
+
+[dependencies]
+docopt = "*"
+rustc-serialize = "*"
