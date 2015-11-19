@@ -2,7 +2,7 @@
 
 [![Build status][1]][2]
 
-`ng-log` is a drop-in replacement for the ngStats and ngWorldStats log
+`ng-stats` is a drop-in replacement for the ngStats and ngWorldStats log
 batchers.
 
 ## About ngLog, ngStats and ngWorldStats
@@ -25,5 +25,5 @@ technologies did so via the following series of procedures:
 
 (TODO)
 
-[1]: https://travis-ci.org/FaultyRAM/ng-log.svg?branch=master
-[2]: https://travis-ci.org/FaultyRAM/ng-log
+[1]: https://travis-ci.org/FaultyRAM/ng-stats.svg?branch=master
+[2]: https://travis-ci.org/FaultyRAM/ng-stats
